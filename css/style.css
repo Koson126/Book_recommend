@@ -1,0 +1,73 @@
+/* ฟอนต์หลัก */
+body {
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+
+h1 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 700;
+  letter-spacing:   1px;}
+
+/* หัวข้อ */
+h2 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+h3 {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+
+
+
+/* แถบเมนู */
+.navbar {
+    background-color: #1d3f8f;
+    height: 75px;
+    padding: 0;
+}
+
+/* โลโก้ */
+.navbar-brand img {
+    height: 100px;
+    width: auto;
+}
+
+/* ส่วนหัวใหญ่ (hero) */
+#top {
+    background-color: #0055A4;
+}
+
+/* เรื่องย่อ */
+#story {
+    background-color: #ffffff;
+}
+
+/* ประโยชน์ที่ได้ */
+#benefits {
+    background-color: #eef3fb;
+}
+
+/* ข้อมูลหนังสือ */
+#info {
+    background-color: #ffffff;
+}
+
+/* คำถามที่พบบ่อย */
+#faq {
+    background-color: #fdeeee;
+}
+
+/* ส่วนสั่งซื้อ */
+#buy {
+    background-color: #EF4135;
+}
+
+/* ท้ายหน้า */
+footer {
+    background-color: #1f2937;
+}
